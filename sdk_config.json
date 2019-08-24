@@ -1,0 +1,36 @@
+
+{
+  "promo": [],
+  "adsParam": [
+    {
+      "status": 1,
+      "name": "first",
+      "value": "ca-app-pub-8127359539273086/6131904759",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "second",
+      "packageName": "",
+      "timeShow": 50000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 20,
+      "timeAfterActive": 0,
+      "showApplovin": false
+    },
+    {
+      "status": 1,
+      "name": "second",
+      "value": "403147823672736_403148073672711",
+      "type": "1",
+      "enable": true,
+      "defaultParam": "",
+      "packageName": "",
+      "timeShow": 50000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0,
+      "showApplovin": true
+    }
+  ]
+}
